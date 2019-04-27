@@ -1,6 +1,7 @@
 ## Multiplicar Console App
 
 Esta es una aplicacion de practica para listar o generar archivos de tablas de multiplicar.
+
 Para listar:
 Ejecutar el comando -> node app listar --base=4 --limite=20
 
